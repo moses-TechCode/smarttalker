@@ -29,6 +29,3 @@ Feel free to explore, test, and provide feedback! You can help us by:
 3. Providing general feedback on how to improve the user experience.
 
 Thank you for visiting **SmartTalker**! Stay tuned for future updates.
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
