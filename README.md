@@ -12,6 +12,9 @@ Welcome to **SmartTalker**, an interactive chatbot designed to assist users and 
 1. **Chat with the Bot**: Type a message in the input box and press **Send** to start a conversation.
 2. **Voice Input**: Click the 🎤 icon to speak to the bot.
 3. **Teaching the Bot**: If the bot doesn't know the answer, you can teach it new responses.
+4. it not know a lot now but when you teach in will store the information it is Gavin and when you ask it again it will respond
+5. this ai is mainly meant for business so the can train it with out any programing experience
+6. but it can customized in into a personal ai to
 
 ## Current Status
 - **Still Under Development**: The chatbot is currently in active development. New features and improvements are being added regularly.
